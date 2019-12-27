@@ -1,0 +1,126 @@
+body {
+    color: #333;
+}
+
+.nav-link {
+  font-size: 15px;
+}
+
+.introduction {
+  /* color: #834205dc; */
+  font-weight: normal;
+  font-size: 20px; 
+  text-align: center;
+}
+
+.news-background {
+  background-color: #e7f7cf;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#news {
+  /* color: #834205dc; */
+  font-weight: normal;
+  font-size: 20px; 
+  text-align: center;
+}
+
+.feature {
+  font-size: 22px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.christmasblend-img {
+  border: 10px #ffffff  solid;
+}
+
+.feature-text {
+  text-align: center;
+}
+
+.popular {
+  /* color: #834205dc; */
+  text-align: center;
+  }
+
+h1 {
+  font-size: 22px;
+  /* border-bottom: double 6px #834205dc; */
+
+}
+
+.introduction {
+  font-size: 16px;
+  text-align: center;
+}
+
+.voice {
+  text-align: center;
+  /* border-bottom: double 6px #ff0000; */
+}
+
+.shadow {
+  border: double #ff0000;
+}
+
+.about {
+  font-size: 16px;
+}
+
+.message {
+  text-align: center;
+  font-size: 16px;
+}
+h5 {
+  text-align: center;
+  font-size: 18px;
+}
+
+#herbtitle {
+  color: #ee9004;
+}
+
+#yakuzenteatitle {
+  color: #118f06dc;
+}
+
+#yakuzenryourititle {
+  color: #834205dc;
+}
+
+.herbtea {
+  background-color:#fce4ec;
+}
+
+.yakuzentea {
+  background-color: #fff8e1; 
+}
+
+.yakuzenryouri {
+  background-color: #f7e5dc;
+}
+
+.about_health {
+  background-color: #fcebeb;
+}
+
+.shoplink {
+  /* color: #834205dc; */
+}
+
+.social {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: #bdbdbd;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  color: white;
+}
